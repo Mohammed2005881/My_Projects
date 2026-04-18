@@ -47,8 +47,6 @@ This structure helps in maintaining clean code separation between:
 
 1. **لؤي هشام محمد الشناني**
 2. **محمد جمال احمد فائد**
-3. **يحيى جلعوز**
-4. **نبراس الكبودي**
 5. **اسماعيل حميد الدين**
 
 ---
